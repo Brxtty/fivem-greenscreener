@@ -79,10 +79,6 @@ Example Usage:
 <img src="https://i.imgur.com/EqY5Inu.png" width="200"> <img src="https://i.imgur.com/ctTF9M9.png" width="200">
 <img src="https://i.imgur.com/6qD7hF3.png" width="200"> <img src="https://i.imgur.com/xdMyGyk.png" width="200">
 
-## Support
-
-For support just join my [discord](https://discord.gg/yN96thgggk).
-
 ## Support the Project
 
 If you wish to support this project, consider buying me a coffee on [ko-fi](https://ko-fi.com/bentix). Your support is greatly appreciated! ❤️​
